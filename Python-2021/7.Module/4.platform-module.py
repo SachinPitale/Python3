@@ -1,0 +1,21 @@
+
+#print (help('modules'))
+import platform
+#print (help('platform'))
+#print (dir(platform))
+
+print(platform.machine())
+print(platform.os)
+print(platform.system())
+print(platform.version())
+print(platform.warnings)
+print(platform.uname())
+print(platform.architecture())
+print(platform.java_ver())
+print(platform.python_version())
+print(platform.node())
+print(platform.dist())
+print(platform.python_implementation())
+print(platform.platform())
+print(platform.release())
+print(platform.python_build())
